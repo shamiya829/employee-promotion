@@ -1,4 +1,10 @@
 # Employee Promotion Prediction
+---
+## Contributors
+
+- **Naomi Ichiriu**
+- **Shamiya Lin**: 
+---
 
 ## Overview
 
@@ -101,12 +107,6 @@ The dataset, **Employees Evaluation for Promotion**, was sourced from [Kaggle](h
 2. LightGBM provided the best balance of performance metrics.
 3. Threshold optimization and SMOTE effectively addressed class imbalance.
 
----
-
-## Contributors
-
-- **Naomi Ichiriu**
-- **Shamiya Lin**: 
 ---
 
 ## License

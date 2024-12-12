@@ -3,7 +3,7 @@
 ## Contributors
 
 - **Naomi Ichiriu**
-- **Shamiya Lin**: 
+- **Shamiya Lin**
 ---
 
 ## Overview

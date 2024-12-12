@@ -114,3 +114,21 @@ The dataset, **Employees Evaluation for Promotion**, was sourced from [Kaggle](h
 This project is for educational purposes. Dataset usage falls under fair use guidelines.
 
 --- 
+
+## References
+
+- Belyadi, H., & Haghighat, A. (2021). Chapter 5 - Supervised learning. In Machine Learning Guide for Oil and Gas Using Python (pp. 169–295). Gulf Professional Publishing. https://doi.org/10.1016/B978-0-12-821929-4.00004-4 
+- de Giorgio, A., Cola, G., & Wang, L. (2023). Systematic review of class imbalance problems in manufacturing. Journal of Manufacturing Systems, 71, 620–644. https://doi.org/10.1016/j.jmsy.2023.10.014 
+- Jafor, M., Wadud, M. A., Nur, K., & Rahman, M. M. (2023). Employee promotion prediction using improved AdaBoost machine learning approach. AIUB Journal of Science and Engineering (AJSE), 22(3), 258–266. https://doi.org/10.53799/ajse.v22i3.781 
+- Kallner, A. (2018). Formulas. In A. Kallner (Ed.), Laboratory Statistics (2nd ed., pp. 1–140). Elsevier. https://doi.org/10.1016/B978-0-12-814348-3.00001-0 
+- Lemons, M. A., & Jones, C. A. (2001). Procedural justice in promotion decisions: using perceptions of fairness to build employee commitment. Journal of Managerial Psychology, 16(4), 268–281. https://doi.org/10.1108/02683940110391517
+- PennGuides: Text analysis: Topic modeling. Topic Modelling - Text Analysis - Guides at Penn Libraries. (2024, June 3). https://guides.library.upenn.edu/penntdm/methods/topic_modeling. 
+- Ruderman, Marian N., et al. Managerial Promotion: The Dynamics for Men and Women : The Dynamics for Men and Women, Center for Creative Leadership, 1996. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/utxa/detail.action?docID=2097903. 
+- Sashkin, M., & Williams, R. L. (1990). Does fairness make a difference? Organizational Dynamics, 19(3), 56–71.
+- Scikit-Learn Developers. (n.d.). 6.3. Preprocessing Data. scikit. https://scikit-learn.org/1.5/modules/preprocessing.html 
+- Soomro, A. A., Mokhtar, A. A., Hussin, H. B., Lashari, N., Oladosu, T. L., Jameel, S. M., & Inayat, M. (2024). Analysis of machine learning models and data sources to forecast burst pressure of petroleum corroded pipelines: A comprehensive review. Engineering Failure Analysis, 155, 107747. https://doi.org/10.1016/j.engfailanal.2023.107747 
+- Stim, R., & Law, R. S. A. at. (2021, November 25). What is fair use?. Stanford Copyright and Fair Use Center. https://fairuse.stanford.edu/overview/fair-use/what-is-fair-use/ 
+- Zaman, M. I. (2021, September 25). Employees Evaluation for Promotion. Kaggle. https://www.kaggle.com/datasets/muhammadimran112233/employees-evaluation-for-promotion/data. 
+
+
+--- 
